@@ -15,12 +15,12 @@ Looked at common problems students face when planning their studies:
 **Priya, 20, college student.** She has five subjects and weekly deadlines. She forgets due dates and wants one screen showing what to do today.
 
 ## User Flow
-![User Flow](user-flow.png)
+![User Flow](user-flow.png.png)
 
 Open app → Home → View today's tasks → Mark task done → Check Progress Overview → Open Calendar/Schedule
 
 ## Wireframes
-![Wireframes](wireframes.png)
+![Wireframes](wireframes.png.png)
 
 ## Process
 Research → Persona → User Flow → Low-fidelity Wireframes in Figma
